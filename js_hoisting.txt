@@ -1,0 +1,73 @@
+var hello;
+console.log(hello);
+hello="world";
+
+
+var needle;
+function test(){
+    var needle;
+    needle="magnet";
+    conlost.log(needle);
+}
+test();
+
+var brendan;
+function print(){
+    brendan;
+    brendan="only okay";
+    console.log(brendan);
+}
+brendan="super cool";
+console.log(brendan);
+
+
+var food;
+function eat(){
+    food="half-chicken";
+    console.log(food)
+    var food="gone"
+}
+food="chicken";
+console.log(food);
+eat();
+
+var mean;
+mean=function(){
+    food="chicken";
+    console.log(food);
+    var food;
+    food="fish";
+    console.log(food);
+}
+mean()
+console.log(food);
+console.log(food);
+
+
+var genre;
+console.log(genra);
+genra="disco";
+function rewind(){
+    var genre;
+    genre="rock";
+    console.log(genra);
+    genre="r&b";
+    console.log(genre);
+}
+genre="disco";
+rewind();
+console.log(genre);
+
+dojo="san jose";
+function learn(){
+    djo="seattle";
+    console.log(dojo);
+    var dojo="burbank";
+    console.log(dojo);
+}
+console.log(dojo);
+learn();
+console.log(dojo);
+
+
+
